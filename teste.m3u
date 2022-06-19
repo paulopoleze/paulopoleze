@@ -14,3 +14,8 @@ https://live.xvideosporn.me/p2p/cartoon/chunks.m3u8?nimblesessionid=3485126&wmsA
 #EXTINF:0 group-title="Meus Canais"
 #EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png" group-title="FILMES" ,TELE CINE PREMIUM
 https://live.xvideosporn.me/p2p/tlcpremium/chunks.m3u8?nimblesessionid=3486264&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIyIDM6MjQ6MDQgUE0maGFzaF92YWx1ZT1xNlhNTytQZ2xmamFEaTNFcXVpc0NnPT0mdmFsaWRtaW51dGVzPTkw
+
+#EXTM3U
+#EXTINF:0 group-title="Meus Canais"
+#EXTINF:-1 tvg-logo="https://jornal140.com/wp-content/uploads/2021/05/Warner-tV.jpg" group-title="SERIES" ,WARNER CHANNEL
+https://live.xvideosporn.me/p2p/warnerchannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIyIDM6NTY6NDUgUE0maGFzaF92YWx1ZT1YWTRYMjdhS0prUW5FTGlLd3pBaW1BPT0mdmFsaWRtaW51dGVzPTkw
