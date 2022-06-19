@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:0 group-title="Meus Canais"
 
-#EXTINF:-1 tvg-logo="https://logospng.org/download/cartoon-network/logo-cartoon-network-1024.png" group-title="DESENHO" ,CARTOON
+#EXTINF:-1 tvg-logo="https://logospng.org/download/cartoon-network/logo-cartoon-network-1024.png" group-title="DESENHO" ,Disney
 https://live.xvideosporn.me/p2p/disneychannel/chunks.m3u8?nimblesessionid=3485013&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIyIDI6NDg6NDkgUE0maGFzaF92YWx1ZT1NdzAvUkRFOFF6eklaNkZQeGFlNnhBPT0mdmFsaWRtaW51dGVzPTkw
+
+
+#EXTM3U
+#EXTINF:0 group-title="Meus Canais"
+#EXTINF:-1 tvg-logo="https://logospng.org/download/cartoon-network/logo-cartoon-network-1024.png" group-title="DESENHO" ,CARTOON
+https://live.xvideosporn.me/p2p/cartoon/chunks.m3u8?nimblesessionid=3485126&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIyIDI6NTE6NDMgUE0maGFzaF92YWx1ZT14NzhiVW0ydmI3SnVtM2J4VjBtV2xRPT0mdmFsaWRtaW51dGVzPTkw
