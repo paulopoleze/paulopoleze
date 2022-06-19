@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 group-title="Meus Canais"
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/cartoon-network/logo-cartoon-network-1024.png" group-title="DESENHO" ,CARTOON
+https://m3u9.ml/a2/hls1/cartoon.m3u8
