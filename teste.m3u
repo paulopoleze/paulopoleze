@@ -9,3 +9,8 @@ https://live.xvideosporn.me/p2p/disneychannel/chunks.m3u8?nimblesessionid=348501
 #EXTINF:0 group-title="Meus Canais"
 #EXTINF:-1 tvg-logo="https://logospng.org/download/cartoon-network/logo-cartoon-network-1024.png" group-title="DESENHO" ,CARTOON
 https://live.xvideosporn.me/p2p/cartoon/chunks.m3u8?nimblesessionid=3485126&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIyIDI6NTE6NDMgUE0maGFzaF92YWx1ZT14NzhiVW0ydmI3SnVtM2J4VjBtV2xRPT0mdmFsaWRtaW51dGVzPTkw
+
+#EXTM3U
+#EXTINF:0 group-title="Meus Canais"
+#EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png" group-title="FILMES" ,TELE CINE PREMIUM
+https://live.xvideosporn.me/p2p/tlcpremium/chunks.m3u8?nimblesessionid=3486264&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIyIDM6MjQ6MDQgUE0maGFzaF92YWx1ZT1xNlhNTytQZ2xmamFEaTNFcXVpc0NnPT0mdmFsaWRtaW51dGVzPTkw
